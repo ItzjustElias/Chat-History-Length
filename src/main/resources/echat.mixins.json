@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "elias.echat.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ChatHistoryMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
