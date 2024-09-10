@@ -1,3 +1,6 @@
+![https://imgur.com/r6ljhIe](https://i.imgur.com/r6ljhIe.png)
+
+
 ChatHistory is a lightweight Minecraft mod that enhances the in-game chat by increasing the message history limit. By default, Minecraft only allows a limited number of past messages to be stored (100 to be excact), but with this mod, you can adjust the chat history to store up to 16,384 messages, ensuring you never lose important conversations.
 
 The mod includes a command, /chathistory, which allows players to set their own chat message history limit. The command works with the following parameters:
